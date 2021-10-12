@@ -3,7 +3,7 @@
 
 <param ve-config 
        title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
+       author="Kendall Scarborough"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/e/ed/Patterned_quilt-_%22Crazy%22_MET_DP135412.jpg" 
        layout="vertical">
 
@@ -32,7 +32,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/c/c6/Morris_Wey_fabric_1883.jpg">
 
 ## Map
 
