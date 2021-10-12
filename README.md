@@ -1,0 +1,1 @@
+# JSTOR_Jucture_Example
